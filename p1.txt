@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello there
 =======
 Hello Amogh
+>>>>>>> branch2
+=======
+Hello Amogh Vasishta
 >>>>>>> branch2
